@@ -53,8 +53,7 @@ body {
 }
 .text p {
   /* color: #50535a; */
-  color: black;
-  /* arxadaki sekile gore yazilar oxunmur deye qara eledim normalda boz kimidi */
+  color: gray;
 }
 .text i {
   color: orange;
